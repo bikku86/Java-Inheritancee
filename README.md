@@ -1,4 +1,4 @@
-# BuddyGroupG1B6_FOP_GroupAssignment1
+# Java-Inheritance
 
 The assignment will contain 4 departments as four different object classes
 i) Super Department
